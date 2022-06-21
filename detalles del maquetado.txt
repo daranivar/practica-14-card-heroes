@@ -1,0 +1,19 @@
+Color de la barra descuentos: 
+#D1891C
+
+Color de la barra de título, botones
+#00669F
+
+color de fondo de las tarjetas:
+#F3F3F3
+
+Propiedades de la tarjeta:
+height: 872px;
+width: 805px;
+left: 626px;
+top: 762px;
+border-radius: 0px;
+
+Texto Roboto 
+Iconos de Fontawesome
+
